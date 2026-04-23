@@ -19,7 +19,7 @@
 
           <div class="input-container">
             <div class="input-grid">
-              <label for="height-slider">나의 신장 입력 (cm)</label>
+              <label for="height-slider">나의 신장 입력 (cm) zz</label>
               <div class="height-display">
                 <span> {{ currentHeight }} </span>cm
               </div>
